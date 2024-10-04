@@ -1,2 +1,1 @@
-# hwidService
-Save hwids
+# Jimini Script Services
